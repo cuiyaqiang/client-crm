@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cas-sample-java-webapp:war">
+    <output-path>$PROJECT_DIR$/../cas-sample-java-webapp-master/target</output-path>
+    <root id="archive" name="cas-sample-java-webapp.war">
+      <element id="artifact" artifact-name="cas-sample-java-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>

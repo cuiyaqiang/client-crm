@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cas-overlay-template-master/cas-overlay.iml" filepath="$PROJECT_DIR$/../cas-overlay-template-master/cas-overlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cas-sample-java-webapp-master/cas-sample-java-webapp.iml" filepath="$PROJECT_DIR$/../cas-sample-java-webapp-master/cas-sample-java-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cas-sample-java-webapp2-master/cas-sample-java-webapp (1).iml" filepath="$PROJECT_DIR$/../cas-sample-java-webapp2-master/cas-sample-java-webapp (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-crm.iml" filepath="$PROJECT_DIR$/client-crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssoServer/server.iml" filepath="$PROJECT_DIR$/../ssoServer/server.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cas-sample-java-webapp:war exploded">
+    <output-path>$PROJECT_DIR$/../cas-sample-java-webapp-master/target/cas-sample-java-webapp</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cas-sample-java-webapp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: org.jasig.cas.client:cas-client-core:3.4.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../cas-sample-java-webapp-master/target/cas-sample-java-webapp/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="cas-sample-java-webapp/web/Web" />
+    </root>
+  </artifact>
+</component>
